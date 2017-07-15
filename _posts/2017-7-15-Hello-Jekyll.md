@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Post!"
+date:   2017-7-15 16:16:01 -0600
+categories: jekyll update
+---
+
 ## Welcome to Post
 
 [TMUX PDF]({{ site.url }}/assets/tmux_p1_1.pdf)
