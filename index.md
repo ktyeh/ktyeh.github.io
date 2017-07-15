@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/ktyeh/ktyeh.github.io/edit
 
 ### [Contact](https://ktyeh.github.io/contact.html)
 
+[tt]({{ site.url }}/assets/tmux_p1_1.pdf)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown

@@ -1,6 +1,6 @@
 ## Welcome to Post
 
-[TMUX PDF](/assets/tmux_p1_1.pdf)
+[TMUX PDF]({{ site.url }}/assets/tmux_p1_1.pdf)
 
 You can use the [editor on GitHub](https://github.com/ktyeh/ktyeh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
