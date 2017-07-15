@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+
+theme: jekyll-theme-minimal
 You can use the [editor on GitHub](https://github.com/ktyeh/ktyeh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### [Contact](https://ktyeh.github.io/contact.html)
