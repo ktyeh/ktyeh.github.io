@@ -1,2 +1,3 @@
 name: Quantim Yeh, Life Hacker
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
